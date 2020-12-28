@@ -1,2 +1,0 @@
-# jsgolang.github.io
-jsgolang
